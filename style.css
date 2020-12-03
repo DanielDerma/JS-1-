@@ -1,0 +1,13 @@
+.navbar-brand {
+  background-color: aqua;
+}
+
+h1,
+.hola {
+  text-align: center;
+}
+
+.adios {
+  text-align: right;
+  margin-right: 25%;
+}
